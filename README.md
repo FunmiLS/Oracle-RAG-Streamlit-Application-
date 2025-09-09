@@ -15,23 +15,15 @@ This repository showcases a demo implementation of a **Retrieval-Augmented Gener
 
 ## 🛠️ Tech Stack
 
-**Demo 1: Microservices Sandbox**
 - **Python 3.10+**
 - **Streamlit**
-
-**Demo 2: Oracle Live Labs** 
-- **RAG Example**
-- **Oracle 23ai Databases**
-- **Oracle APEX**
 
 ---
 
 ## 📦 Installation
 
 
-git clone https://github.com/yourusername/rag-demo.git
-cd rag-demo
-pip install -r requirements.txt
+
 
 ---
 
