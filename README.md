@@ -1,28 +1,31 @@
 # 🧠 Oracle-RAG-Streamlit-Application
 
-This repository showcases a demo implementation of a **Retrieval-Augmented Generation (RAG)** application. It combines document retrieval with large language model (LLM) generation to provide accurate, context-aware responses based on external knowledge sources.
+This repository showcases a demo implementation of the Oracle Microservices Sandbox. 
+The tool allows developers and data scientists explore Retrieval-Augmented Generation (RAG). Using features from Oracle Database 23ai, like AI VectorSearch and SelectAI, the Sandbox helps users boost the performance of existing AI models.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 Document retrieval using vector search in Oracle Autonomous Database 23ai
-- 🤖 LLM-based answer generation using OCI Generative AI service
-- 🖼️ Interactive UI with Oracle APEX
-- 📁 Document ingestion and embedding in Oracle Autonomous Database 23ai
-
+- 🔍 Document retrieval using vector search
+- 🤖 LLM-based answer generation
+- Configuring Embedding and Chat Models
+- 🖼️ Interactive UI with Streamlit front-end
+- 📁 Document ingestion and embedding
+  
 ---
 
 ## 🛠️ Tech Stack
 
-- **Python 3.10+**
+- **Python 3.11**
 - **Streamlit**
+- **Access to an Embedding and Chat Model: API Keys for Third-Party Models or On-Premises Models**
 
 ---
 
 ## 📦 Installation
 
-
+Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 
 ---
@@ -36,11 +39,9 @@ This repository showcases a demo implementation of a **Retrieval-Augmented Gener
 
 We discovered a few issues and bugs with the application when following the demo tutorial. The known issues and bugs are found below:
 
-- **Retrieval inconsistencies**: Occasionally, the retriever may return irrelevant or low-quality documents, especially when queries are ambiguous or under-specified.
-- **Latency**: Response times may be slower than expected due to the size of the document corpus and model inference time.
-- **Context window limitations**: Large retrieved documents may be truncated or omitted if they exceed the model’s context window.
-- **Error handling**: Some edge cases (e.g., empty queries, malformed inputs) may not be gracefully handled yet.
-- **UI/UX quirks**: If you're using a frontend, you might notice minor layout or interaction issues depending on the browser.
+- **Open AI Credits**: If you choose to use OpenAI's free tier account, you will likely run out of credits quickly to generate embeddings and interact with the chat models.
+- **Packages**: Some of the required packages are not running the latest versions. We advise manually installing the older versions to get the app to run.
+
 
 ---
 
