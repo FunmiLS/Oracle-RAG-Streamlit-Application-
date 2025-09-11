@@ -19,7 +19,8 @@ The tool allows developers and data scientists explore Retrieval-Augmented Gener
 
 - **Python 3.11**
 - **Streamlit**
-- **Access to an Embedding and Chat Model: API Keys for Third-Party Models or On-Premises Models**
+- **Cohere embed-english-light-v3.0**
+- **Cohere command-r**
 
 ---
 
