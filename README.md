@@ -1,4 +1,4 @@
-# 🧠 Oracle-RAG-Streamlit-Application
+# Oracle-RAG-Streamlit-Application
 
 This repository showcases a demo implementation of the Oracle Microservices Sandbox. 
 The tool allows developers and data scientists explore Retrieval-Augmented Generation (RAG). Using features from Oracle Database 23ai, like AI VectorSearch and SelectAI, the Sandbox helps users boost the performance of existing AI models.
@@ -9,7 +9,7 @@ The tool allows developers and data scientists explore Retrieval-Augmented Gener
 
 - 🔍 Document retrieval using vector search
 - 🤖 LLM-based answer generation
-- Configuring Embedding and Chat Models
+- 🛠️ Configuring Embedding and Chat Models
 - 🖼️ Interactive UI with Streamlit front-end
 - 📁 Document ingestion and embedding
   
