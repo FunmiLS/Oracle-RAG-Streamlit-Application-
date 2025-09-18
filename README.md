@@ -16,7 +16,6 @@ The tool allows developers and data scientists explore Retrieval-Augmented Gener
 ---
 
 ## 🛠️ Tech Stack
-- ## 🛠 Tech Stack (Used in Setup)
 - Python 3.11
 - **Cloud Platform**: Oracle Cloud Infrastructure (OCI)
 - **Vector Store**: Oracle Database 23ai
