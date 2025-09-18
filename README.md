@@ -7,8 +7,15 @@
 
 
 ---
+## 📌 Why This Repo?
+This repository was created to:
+- Record our experience developing RAG applications while following the Oracle Microservices Sandbox Workshop.
+- Share the different technologies used.
+- Record challenges, debugging steps, and lessons learned.
+- Provide a quick reference for anyone exploring RAG.
 
-## 🚀 Features
+---
+## 🚀 Oracle Microservices Sandbox Features
 
 - 🔍 Document retrieval using vector search
 - 🤖 LLM-based answer generation
@@ -18,8 +25,39 @@
   
 ---
 
+## 🔍 What is RAG?
+
+**Retrieval-Augmented Generation (RAG)** is a powerful technique that enhances Large Language Models (LLMs) by grounding their responses in external data. It combines two key components:
+
+- 🧲 **Retriever** – Finds relevant information from your data sources.
+- 🧠 **Generator** – Uses that information to produce accurate, context-aware answers.
+
+---
+
+### ⚙️ Typical RAG Pipeline
+
+1. **Ingest**  
+   → Break documents into chunks, clean the text, and compute embeddings.
+
+2. **Index**  
+   → Store the embeddings in a vector database for efficient retrieval.
+
+3. **Retrieve**  
+   → Use similarity or hybrid search to find the top-k relevant chunks.
+
+4. **Augment**  
+   → Insert the retrieved context into the prompt sent to the LLM.
+
+5. **Generate**  
+   → The LLM produces a grounded response, ideally with citations.
+
+6. **Evaluate**  
+   → Assess retrieval quality, answer faithfulness, latency, and cost.
+
+---
+
 ## 🛠️ Tech Stack
-- Python 3.11
+- **Python 3.11**
 - **Cloud Platform**: Oracle Cloud Infrastructure (OCI)
 - **Vector Store**: Oracle Database 23ai
 - **Embeddings Model**: Cohere embed-english-light-v3.0
