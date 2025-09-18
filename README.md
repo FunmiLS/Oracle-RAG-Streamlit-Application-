@@ -41,7 +41,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 <table align="center">
   <tr>
     <td>
-      https://github.com/user-attachments/assets/9259da00-1e40-475c-a7cf-d8e627ce5f74
+      <img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/9259da00-1e40-475c-a7cf-d8e627ce5f74" />
       <p align="center"><strong>Embedding Models</strong></p>
     </td>
     <td>
@@ -58,6 +58,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
     </td>
   </tr>
 </table>
+
 ---
 ## ⚠️ Challenges & Debugging Log
 
