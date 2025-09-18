@@ -1,5 +1,8 @@
 # Notes from Oracle Microservices Sandbox: Retrieval Augmented Generation Streamlit Application
 
+> Personal notes and learnings from following Oracle AI Optimizer workshop on Retrieval-Augmented Generation (RAG).  
+> **No workshop code is included.** These are reflections and debugging logs.
+
 This repository showcases a demo implementation of the Oracle Microservices Sandbox. 
 The tool allows developers and data scientists explore Retrieval-Augmented Generation (RAG). Using features from Oracle Database 23ai, like AI VectorSearch and SelectAI, the Sandbox helps users boost the performance of existing AI models.
 
