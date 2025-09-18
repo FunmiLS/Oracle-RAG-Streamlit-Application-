@@ -49,7 +49,6 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
       <p align="center"><strong>Emedding Models</strong></p>
     </td>
   </tr>
-
   <tr>
     <td>
       <img width="959" alt="image (2)" src="https://github.com/user-attachments/assets/48b0ba1a-e10f-4671-b715-474315b30eb1" />
