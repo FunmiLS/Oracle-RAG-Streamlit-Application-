@@ -37,22 +37,22 @@ This repository was created to:
 ### ⚙️ Typical RAG Pipeline
 
 1. **Ingest**  
-   → Break documents into chunks, clean the text, and compute embeddings.
+Break documents into chunks, clean the text, and compute embeddings.
 
 2. **Index**  
-   → Store the embeddings in a vector database for efficient retrieval.
+Store the embeddings in a vector database for efficient retrieval.
 
 3. **Retrieve**  
-   → Use similarity or hybrid search to find the top-k relevant chunks.
+Use similarity or hybrid search to find the top-k relevant chunks.
 
 4. **Augment**  
-   → Insert the retrieved context into the prompt sent to the LLM.
+Insert the retrieved context into the prompt sent to the LLM.
 
 5. **Generate**  
-   → The LLM produces a grounded response, ideally with citations.
+The LLM produces a grounded response, ideally with citations.
 
 6. **Evaluate**  
-   → Assess retrieval quality, answer faithfulness, latency, and cost.
+Assess retrieval quality, answer faithfulness, latency, and cost.
 
 ---
 
