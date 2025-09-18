@@ -37,7 +37,8 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 ## 📸 Application Preview
 
-### Language Models
+
+<p align="center">
 <img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/9259da00-1e40-475c-a7cf-d8e627ce5f74" />
 
 ### Embedding Models
@@ -52,7 +53,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 ### Embeddings in Oracle Database
 
 <img width="959" alt="image (2)" src="https://github.com/user-attachments/assets/ed9fe5a8-475e-4b4d-a206-bb8c333044a2" />
-
+</p>
 
 ---
 ## ⚠️ Challenges & Debugging Log
