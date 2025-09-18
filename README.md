@@ -52,7 +52,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
   <tr>
     <td>
-      ![RAG_UI](https://github.com/user-attachments/assets/48b0ba1a-e10f-4671-b715-474315b30eb1)
+      ![RAG_UI](https://github.com/user-attachments/assets/25716396-a025-4e32-b761-6f0b3cefae99)
       <p align="center"><strong>Chatbot UI</strong></p>
     </td>
     <td>
