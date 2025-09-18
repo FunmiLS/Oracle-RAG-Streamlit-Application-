@@ -16,11 +16,13 @@ The tool allows developers and data scientists explore Retrieval-Augmented Gener
 ---
 
 ## 🛠️ Tech Stack
-
-- **Python 3.11**
-- **Streamlit**
-- **Cohere embed-english-light-v3.0**
-- **Cohere command-r**
+- ## 🛠 Tech Stack (Used in Setup)
+- Python 3.11
+- **Cloud Platform**: Oracle Cloud Infrastructure (OCI)
+- **Vector Store**: Oracle Database 23ai
+- **Embeddings Model**: Cohere embed-english-light-v3.0
+- **LLM**: Cohere command-r
+- **Front End**: Streamlit
 
 ---
 
@@ -44,7 +46,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 
 ---
-## 🐞 Known Issues & Bugs
+## ⚠️ Challenges & Debugging Log
 
 We discovered a few issues and bugs with the application when following the demo tutorial. The known issues and bugs are found below:
 
@@ -57,3 +59,8 @@ We discovered a few issues and bugs with the application when following the demo
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 👥 Authors
+
+- **FunmiLS & 4Khan** 
+
