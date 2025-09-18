@@ -34,7 +34,7 @@ This repository was created to:
 
 ---
 
-### ⚙️ Typical RAG Pipeline
+### ⚙️RAG Pipeline
 
 1. **Ingest**  
 Break documents into chunks, clean the text, and compute embeddings.
