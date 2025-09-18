@@ -47,7 +47,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 ### Embeddings in Oracle Database
 
-<img width="2447" height="757" alt="image (2)" src="https://github.com/user-attachments/assets/ed9fe5a8-475e-4b4d-a206-bb8c333044a2" />
+<img width="959" alt="image (2)" src="https://github.com/user-attachments/assets/ed9fe5a8-475e-4b4d-a206-bb8c333044a2" />
 
 
 ---
