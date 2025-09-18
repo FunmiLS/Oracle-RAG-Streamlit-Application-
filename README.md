@@ -42,10 +42,11 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 <img width="959" height="512" alt="image" src="https://github.com/user-attachments/assets/dc9d5155-8340-4d0e-ae6a-cdf2d64681d7" />
 
 ### Chat User Interface
+
 ![image](https://github.com/user-attachments/assets/b1381bfd-21b1-4f39-b71b-dfd1d995dc4b)
-<img width="2213" height="1145" alt="image (1)" src="https://github.com/user-attachments/assets/b6abb9dc-8c42-46ac-9baf-d7063836794a" />
 
 ### Embeddings in Oracle Database
+
 <img width="2447" height="757" alt="image (2)" src="https://github.com/user-attachments/assets/ed9fe5a8-475e-4b4d-a206-bb8c333044a2" />
 
 
