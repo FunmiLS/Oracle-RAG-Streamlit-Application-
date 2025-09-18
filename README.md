@@ -38,23 +38,26 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 ## 📸 Application Preview
 
 
-<p align="center">
-<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/9259da00-1e40-475c-a7cf-d8e627ce5f74" />
-
-### Embedding Models
-
-<img width="959" height="512" alt="image" src="https://github.com/user-attachments/assets/dc9d5155-8340-4d0e-ae6a-cdf2d64681d7" />
-
-### Chatbot UI
-
-![RAG_UI](https://github.com/user-attachments/assets/48b0ba1a-e10f-4671-b715-474315b30eb1)
-
-
-### Embeddings in Oracle Database
-
-<img width="959" alt="image (2)" src="https://github.com/user-attachments/assets/ed9fe5a8-475e-4b4d-a206-bb8c333044a2" />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      https://github.com/user-attachments/assets/9259da00-1e40-475c-a7cf-d8e627ce5f74
+      <p align="center"><strong>Embedding Models</strong></p>
+    </td>
+    <td>
+      https://github.com/user-attachments/assets/dc9d5155-8340-4d0e-ae6a-cdf2d64681d7
+      <p align="center"><strong>Chatbot UI</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/48b0ba1a-e10f-4671-b715-474315b  <p align="center"><strong>RAG UI</strong></p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ed9fe5a8-475e-4b4d-a206-bb8c333044a2" alt="Embeddings in Oracle Database Oracle Database</strong></p>
+    </td>
+  </tr>
+</table>
 ---
 ## ⚠️ Challenges & Debugging Log
 
