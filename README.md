@@ -46,7 +46,8 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 ### Chat User Interface
 
-![image](https://github.com/user-attachments/assets/b1381bfd-21b1-4f39-b71b-dfd1d995dc4b)
+![RAG_UI](https://github.com/user-attachments/assets/48b0ba1a-e10f-4671-b715-474315b30eb1)
+
 
 ### Embeddings in Oracle Database
 
