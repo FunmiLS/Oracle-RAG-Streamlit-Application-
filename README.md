@@ -35,7 +35,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 ---
 
-## 📸 Demo Preview
+## 📸 Application Preview
 
 ### Chat Models
 <img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/9259da00-1e40-475c-a7cf-d8e627ce5f74" />
