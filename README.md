@@ -68,6 +68,15 @@ The LLM produces a grounded response, with citations.
 
 Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
+---
+## 💾 Connect to Database
+
+- In OCI, navigate to Autonomous Database > 'your database' > Database Connection.
+- Select Database Connect and select Download Wallet
+- Create a tns_admin folder in the src folder on your computer. Navigation: Oaim-sandbox > app > src
+- Paste the wallet file in the tns_admin folder
+- In the sandbox, open the database connection tab and insert your database user credientaisl, database string and wallet password
+
 
 ---
 
