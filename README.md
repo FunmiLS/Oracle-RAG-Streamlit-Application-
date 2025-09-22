@@ -29,8 +29,8 @@ This repository was created to:
 
 **Retrieval-Augmented Generation (RAG)** is a powerful technique that enhances Large Language Models (LLMs) by grounding their responses in external data. It combines two key components:
 
-- 🧲 **Retriever** – Finds relevant information from your data sources.
-- 🧠 **Generator** – Uses that information to produce accurate, context-aware answers.
+- **Retriever** – Finds relevant information from your data sources.
+- **Generator** – Uses that information to produce accurate, context-aware answers.
 
 ---
 
@@ -49,10 +49,8 @@ Use similarity or hybrid search to find the top-k relevant chunks.
 Insert the retrieved context into the prompt sent to the LLM.
 
 5. **Generate**  
-The LLM produces a grounded response, ideally with citations.
+The LLM produces a grounded response, with citations.
 
-6. **Evaluate**  
-Assess retrieval quality, answer faithfulness, latency, and cost.
 
 ---
 
