@@ -69,6 +69,7 @@ Follow the instructions outlined in https://github.com/oracle/ai-optimizer
 
 ---
 ## 💾 Connect to Database
+The following steps are to connect your Oracle Database 23ai to the microservices sandbox to store your vector embeddings. 
 
 - In OCI, navigate to Autonomous Database > 'your database' > Database Connection.
 - Select Database Connect and select Download Wallet
