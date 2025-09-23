@@ -1,6 +1,6 @@
 # Notes from Oracle Microservices Sandbox: Retrieval Augmented Generation Streamlit Application
 
-> This repository showcases the personal notes and learnings from following the Oracle Microservices Sandbox workshop. The application uses features from Oracle Database 23ai, like AI VectorSearch and SelectAI. The Sandbox helps users boost the performance of existing AI models.
+> This repository showcases the personal notes and learnings from the Oracle Microservices Sandbox workshop. The application uses features from Oracle Database 23ai, like AI VectorSearch and SelectAI. The Sandbox helps users boost the performance of existing AI models.
 > <br>**No workshop code is included.** These are reflections and debugging logs.
 
 
