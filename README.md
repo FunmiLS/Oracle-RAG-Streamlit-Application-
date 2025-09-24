@@ -115,6 +115,11 @@ We discovered a few issues and bugs with the application when following the demo
 - **Open AI Credits**: If you choose to use OpenAI's free tier account, you will likely run out of credits quickly to generate embeddings and interact with the chat models.
 - **Packages**: Some of the required packages are not running the latest versions. We advise manually installing the older versions to get the app to run.
 
+---
+
+## ✅ Lessons Learned
+- Beware that some of the language and embedding models may depreciate over time. It is important to pull the latest version from the creator's repository.
+- Not all free tier accounts will give you enough credits to generate embeddings using the Oracle Microservices Sandbox.
 
 ---
 
